@@ -1,13 +1,13 @@
 :root { 
-    --hijau-tua:    #1E3A8A;  
-    --hijau-muda:   #3B82F6;  
-    --hijau-terang: #93C5FD;  
-
+    /* WARNA UTAMA UMSU (BIRU) */
+    --hijau-tua:    #002F87;   /* Biru tua UMSU */
+    --hijau-muda:   #0056D2;   /* Biru utama */
+    --hijau-terang: #4DA3FF;   /* Biru terang */
+    
     --putih:        #FFFFFF; 
-    --abu-gelap:    #0F172A; 
+    --abu-gelap:    #1E293B; 
     --abu-muda:     #64748B; 
-
-    --bg-section:   #EFF6FF;
+    --bg-section:   #F1F5FF;   /* background biru sangat muda */
 
     --shadow:       0 4px 20px rgba(0,0,0,0.08); 
 }
